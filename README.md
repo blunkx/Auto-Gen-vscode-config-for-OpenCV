@@ -7,7 +7,7 @@ Generating c_cpp_properties.json and tasks.json for using OpenCV in vscode.
     `brew install opencv`
 - pkg-config
 
-    `pkg-config`
+    `brew install pkg-config`
 
 # How to use?
 Make sure you have already installed OpenCV and pkg-config by Homebrew.
